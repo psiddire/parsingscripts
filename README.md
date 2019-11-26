@@ -14,7 +14,7 @@ In case there is some error with the above procedure you can re-build the fastje
 ./configure --prefix='pwd'/../fastjet-install --enable-pyext\
 make\
 make check\
-make install\
+make install
 
 
 ## Background
